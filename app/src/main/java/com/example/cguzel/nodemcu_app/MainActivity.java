@@ -33,7 +33,7 @@ import java.net.URISyntaxException;
 public class MainActivity extends AppCompatActivity implements CompoundButton.OnCheckedChangeListener{
 
     //final Context context = this;
-    public String ipAddress = "192.168.0.26";
+    public String ipAddress = "192.168.0.27";
     Button setting;
     Switch switchVerde;
     Switch switchRojo;
